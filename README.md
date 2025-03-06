@@ -12,3 +12,5 @@ This is a simple **Amazon Clone** created using **HTML** and **CSS**. The projec
 - **CSS** 🎨 (for styling and layout)
 
 ## 📸 Preview
+## 📸 Preview
+![Amazon Clone Screenshot](https://raw.githubusercontent.com/hbSrujana/Amazon-Clone/main/amazon%20pic.png)
